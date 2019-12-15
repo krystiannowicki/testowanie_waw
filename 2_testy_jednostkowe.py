@@ -16,7 +16,7 @@ def test_product():
     assert product(0, 0) == 0
     assert product(-1, 0) == 0
     assert product(-1, -1) == 1
-    assert product(5, 0) == 0
+    assert product(5, 2.5) == 12.5
     assert product(3, 4) == 12
 
 

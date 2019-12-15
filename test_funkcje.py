@@ -18,8 +18,3 @@ def test_polidrom():
     assert Funkcje.polidrom("Ala")
     assert Funkcje.polidrom("Kobyła ma mały bok")
     assert Funkcje.polidrom("111")
-
-
-test_add()
-test_product()
-test_polidrom()
